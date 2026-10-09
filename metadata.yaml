@@ -1,5 +1,7 @@
 homepage: "https://contentsquare.com/"
-documentation: "https://docs.contentsquare.com/uxa-en/"
+documentation: "https://docs.contentsquare.com/en/web/dynamic-variables-tag/"
 versions:
+  - sha: bf746ee68be37c5ae3180b25e551428ff1e4631a
+    changeNotes: Updated template thumbnail
   - sha: cdbd748d5c9c771b1adb1a70b41f9a96f952207d
     changeNotes: First Version
